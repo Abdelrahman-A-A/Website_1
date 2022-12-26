@@ -503,7 +503,7 @@ padding-bottom: var(--section-padding);
     content: "";
     position: absolute;
     top: -40px;
-    right: -80px;
+    right: -60px;
     width: 30px;
     height: 250px;
     border-left: 80px solid var(--main-color);
